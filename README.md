@@ -46,7 +46,8 @@ The data comes from the client's own sourcing efforts. Any field/attritbute that
 
 The ranking algorithm can be robustly automated using the following pipeline, since the entire methodology has been made functional: 
 
-![Apziva_P3_Automated_Pipeline.png](attachment:079c7bc4-8539-411f-bf75-0b039ac1a422.png)
+<img width="688" height="263" alt="Apziva_P3_Automated_Pipeline" src="https://github.com/user-attachments/assets/db6ad7b3-58ff-4c55-8564-31a83d91b24b" />
+
 
 **INPUT** : The client/user is required to only set three inputs:
 - The CSV/JSON file in this consistent format - id, job_title, location, connection - [*Must be ensured by the client]
